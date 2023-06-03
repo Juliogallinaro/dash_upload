@@ -123,4 +123,5 @@ def make_graphs(n, data, x_data, y_data, c_data):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False, host='0.0.0.0', port=8050)
+    server = app.server
