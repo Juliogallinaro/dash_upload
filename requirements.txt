@@ -1,0 +1,7 @@
+dash==2.10.2
+dash-renderer
+dash-html-components
+dash-core-components 
+plotly
+dash_table
+cufflinks==0.17.3
